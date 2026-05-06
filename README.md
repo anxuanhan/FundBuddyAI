@@ -70,7 +70,7 @@ streamlit run app.py
 
 ---
 
-# Fund Watcher (Streamlit)
+# FundBuddyAI (Streamlit)
 
 A lightweight Streamlit dashboard for tracking fund holdings, intraday valuation, daily trends, and AI-assisted insights.
 
