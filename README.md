@@ -11,9 +11,8 @@
 - AI 多轮问答（支持 Qwen/Gemini）。
 - 本地 JSON 持久化（持仓与历史）。
 
-## 截图
+<img width="1512" height="808" alt="image" src="https://github.com/user-attachments/assets/cf1e752b-f469-4b75-b09b-b3b60a9ed29d" />
 
-在这里放你的截图。
 
 ## 依赖
 
