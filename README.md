@@ -1,5 +1,5 @@
 
-# Fund Watcher (Streamlit)
+# FundBuddyAI (Streamlit)
 
 A lightweight Streamlit dashboard for tracking fund holdings, intraday valuation, and daily trends with AI-assisted insights.
 
