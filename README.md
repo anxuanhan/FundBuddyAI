@@ -28,13 +28,15 @@
 1. 创建虚拟环境（可选但推荐）
 
 2. 安装依赖：
-
+```
     pip install streamlit yfinance requests pandas google-genai
-
+```
 3. 设置 API Key（可选，网页内也可输入）：
-
+```
     export GEMINI_API_KEY="YOUR_KEY"
     export DASHSCOPE_API_KEY="YOUR_KEY"
+```
+除非网络原因，否则建议优先参考gemini的建议。此外投资有风险，AI的建议只供参考，需要自己结合实际情况做出判断。
 
 ## ▶️ 运行
 
@@ -93,14 +95,14 @@ A lightweight Streamlit dashboard for tracking fund holdings, intraday valuation
 1. Create a virtual environment (optional but recommended)
 
 2. Install dependencies:
-
+```
     pip install streamlit yfinance requests pandas google-genai
-
+```
 3. Set API keys (optional, you can also enter in the UI):
-
+```
     export GEMINI_API_KEY="YOUR_KEY"
     export DASHSCOPE_API_KEY="YOUR_KEY"
-
+```
 ## ▶️ Run
 
     streamlit run app.py
